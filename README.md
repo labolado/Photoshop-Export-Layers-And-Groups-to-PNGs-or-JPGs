@@ -7,6 +7,7 @@ This script allows you to export specified layers and groups as individual PNGs 
 4. If There exists name start with "##", all the name start with "#" will be ignored, only "##" will be exported; 
 5. Excute the export script.
 
+***
 
 这个脚本允许你导出指定图层或者分组为png或者jpg图片。
 ###导出步骤
