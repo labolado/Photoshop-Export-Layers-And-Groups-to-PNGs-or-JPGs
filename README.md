@@ -2,7 +2,7 @@ This script allows you to export specified layers and groups as individual PNGs 
 
 ####Export Steps
 1. Open the psd document you want to export;
-2. Add "#" at the beginning of the layer/group's name you want export;
+2. Add "#" at the beginning of the layer/group's name you want to export;
 3. The image will export as png by default. if you want export it as jpg, add ".jpg" at the end of the layer/group's name;
 4. If There exists name start with "##", all the name start with "#" will be ignored, only "##" will be exported; 
 5. Excute the export script.
