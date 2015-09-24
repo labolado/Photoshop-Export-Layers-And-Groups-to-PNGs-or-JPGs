@@ -18,6 +18,6 @@ This script allows you to export specified layers and groups as individual PNGs 
 5. 执行导出脚本。
 
 
-![image](http://s14.postimg.org/8oimn0x9b/2015_09_24_3_40_35.png) 
+![Screenshot](http://s14.postimg.org/8oimn0x9b/2015_09_24_3_40_35.png) 
 
 
