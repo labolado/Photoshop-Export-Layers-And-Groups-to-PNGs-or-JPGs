@@ -5,7 +5,7 @@ This script allows you to export specified layers and groups as individual PNGs 
 2. Add "#" at the beginning of the layer/group's name you want to export;
 3. The image will export as png by default. if you want export it as jpg, add ".jpg" at the end of the layer/group's name;
 4. If There exists name start with "##", all the name start with "#" will be ignored, only "##" will be exported; 
-5. If There exists name start with "/", it will be recognized a folder; 
+5. If There exists name start with "/", it will be recognized as a folder; 
 6. Excute the export script.
 
 ***
